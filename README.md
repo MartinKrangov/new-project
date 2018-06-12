@@ -6,3 +6,4 @@ savly.nl
 savly.fr
 blogdechollos.com
 new widgets 
+new pictures
